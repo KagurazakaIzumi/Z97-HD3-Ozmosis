@@ -17,3 +17,5 @@ Gigabyte Z97-HD3 Ver 1.0 Ozmosis UEFI BIOS File
 - [ ] BIOS 内置驱动更新
 - [ ] macOS Mojave 支持
 - [ ] 开机自动引导 macOS
+
+## 作者懶得更新，暫時變成大坑
